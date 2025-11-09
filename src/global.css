@@ -1,0 +1,19 @@
+#form{
+    height: 400px;
+    width: 300px;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 100px auto;
+}
+#h1{
+    text-align: center;
+}
+
+#submit-btn{
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
